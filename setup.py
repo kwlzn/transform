@@ -34,7 +34,7 @@ def _make_required_install_packages():
       'pydot>=1.2,<2',
       'six>=1.10,<2',
       'tensorflow-metadata>=0.15,<0.16',
-      'tensorflow>=1.15,<2.2',
+      #'tensorflow>=1.15,<2.2',
       'tfx-bsl>=0.15,<0.16',
   ]
 
